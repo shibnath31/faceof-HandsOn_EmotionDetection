@@ -1,1 +1,3 @@
 # faceof-HandsOn_EmotionDetection
+
+This project focuses on real-time human emotion detection using the DeepFace framework in Google Colab. The system captures a live image through a webcam, processes it using OpenCV, and applies DeepFace to analyze facial expressions. The model identifies dominant emotions such as happiness, sadness, anger, fear, surprise, disgust, and neutrality. The detected emotion is displayed along with the captured image for visualization. This implementation demonstrates the effectiveness of deep learning in understanding human affective states and highlights its potential for applications like mental health monitoring, sentiment analysis, user experience enhancement, and smart human-computer interaction.
